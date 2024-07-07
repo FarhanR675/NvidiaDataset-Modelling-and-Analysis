@@ -17,7 +17,7 @@ An analytical platform designed to analyze Nvidia stock data and predict future 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/nvidia-dataset-modelling-analysis.git
+    git clone https://github.com/FarhanR675/nvidia-dataset-modelling-analysis.git
     ```
 
 2. Navigate to the project directory:
